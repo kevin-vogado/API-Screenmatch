@@ -15,7 +15,7 @@ O projeto teve uma última etapa de evolução, em que obteve um front-end, até
 
 O Screenmatch tem a finalidade de permitir a consulta personalizada de informações de filmes e séries. 
 
-![GIF da navegação na homepage principal do Screenmatch](https://github.com/user-attachments/assets/f840dd40-e566-4aa8-8552-bf193f540ebf)
+![GIF da navegação na homepage principal do Screenmatch](https://github.com/user-attachments/assets/d204a390-4ac5-4631-8c15-06a7c168e086)
 
 # Funcionalidades do Projeto
 - `Funcionalidade 1` buscar todas as séries/filmes armazenadas.
