@@ -2,8 +2,6 @@
 
 ![imagem da homepage principal do Screenmatch](https://github.com/user-attachments/assets/86b2252a-5476-4f49-9fd1-c021995fb28f)
 
-![Badge em Produção](http://img.shields.io/static/v1?label=STATUS&message=ONLINE&color=GREEN&style=for-the-badge)
-
 # Descrição do Projeto
 O Screenmatch foi desenvolvido, inicialmente, como uma aplicação por linha de comando, consumindo a API da [OMDb API](https://www.omdbapi.com/), ele traz informações de filmes e séries e armazena essas informações em um banco de dados PostgreSQL. Sendo uma aplicação pensada para o público brasileiro, foi preciso fazer a tradução da sinopse de filmes e séries para a língua português brasileiro, para este processo de tradução foi utilizado a integração com o ChatGPT da OpenAI, configurando os parâmetros do modelo de IA.
 
