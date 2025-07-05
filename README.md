@@ -25,7 +25,7 @@ O Screenmatch tem a finalidade de permitir a consulta personalizada de informaç
 - `Funcionalidade 7` filtrar série por temporada e avaliação.
 - `Funcionalidade 8` buscar episódios de série por trecho do título do episódio.
 - `Funcionalidade 9` listar os top 5 episódios de série pela avaliação do episódio.
-- `Funcionalidade 10` buscar episódios de séries a partir de uma data
+- `Funcionalidade 10` buscar episódios de séries a partir de uma data.
 
 # Acessar e Baixar o Projeto
 
